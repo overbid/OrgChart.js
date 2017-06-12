@@ -1,8 +1,8 @@
 {
-  "name": "OrgChart.js",
+  "name": "orgchart.js",
   "version": "0.0.3",
   "description": "organization chart plugin based on ES6",
-  "main": "lib/orgchart.js",
+  "main": "src/orgchart.js",
   "scripts": {},
   "devDependencies": {
     "babel-core": "^6.18.2",
@@ -31,7 +31,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dabeng/OrgChart.js.git"
+    "url": "https://github.com/overbid/OrgChart.js.git"
   },
   "keywords": [
     "es6",
